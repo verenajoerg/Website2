@@ -10,10 +10,8 @@ dolphin:
 
 ![](dolphin.jpg){width="50%"}
 
-
-
 ### Updates
-#Day1:
-#Day2:
 
-### References
+Add another picture:
+
+![](otter.jpg){width="50%"}
